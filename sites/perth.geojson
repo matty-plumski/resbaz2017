@@ -1,0 +1,27 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[115.895357, -32.005840]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "Lower Henderson Court"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[115.896451, -32.005281]
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "Building 300, Life Sciences"
+            }
+        }
+    ]
+}
