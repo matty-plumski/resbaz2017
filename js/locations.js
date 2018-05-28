@@ -9,7 +9,7 @@ $(function () {
     });
   }
   if (locationList.length > 0) {
-    $.getJSON("sites.geojson", function(data) {
+    $.getJSON("/resbaz2017.sites.geojson", function(data) {
       populateLocations({
         locationKnown: false,
         features: data.features
